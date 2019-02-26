@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name:     Itineris ACF JSON
+ * Plugin Name:     ACF JSON
  * Plugin URI:      https://github.com/itinerisltd/acf-json
- * Description:     Load ACF JSON settings from <bedrock>/config/acf-json directory
+ * Description:     Load ACF JSON settings from bedrock/config/acf-json directory
  * Version:         0.1.0
  * Author:          Itineris Limited
  * Author URI:      https://www.itineris.co.uk/

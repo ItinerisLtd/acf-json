@@ -1,7 +1,7 @@
 {
     "name": "itinerisltd/acf-json",
     "type": "wordpress-muplugin",
-    "description": "Load ACF JSON settings from <bedrock>/config/acf-json directory.",
+    "description": "Load ACF JSON settings from bedrock/config/acf-json directory.",
     "keywords": [
         "wordpress",
         "wp"
